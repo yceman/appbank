@@ -9,7 +9,7 @@ Rails version: 8.0.2
 rails --version
 
 ```
-Steps  
+Steps:    
 Things you may want to cover:
 
 * Ruby version
